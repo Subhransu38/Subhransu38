@@ -8,21 +8,6 @@
 
 ✈️ I love **traveling** too. In 2019, I went on a solo trip to **Delhi, Haridwar, and Agra**. I also enjoy riding motorcycles and often do 500km+ rides.
 
-## 💻 Projects
-
-- Designed and developed a responsive YouTube Clone using HTML, CSS and JavaScript.
-  - [Code](https://github.com/Subhransu38/youtube-clone)
-  - [Website](https://subhransu38.github.io/youtube-clone/)
-- Built a personal Portfolio website using HTML, CSS and JavaScript.
-  - [Code](https://github.com/Subhransu38/portfolio)
-  - [Website](https://subhransu38.github.io/portfolio/)
-- Developed an expense tracker using React, HTML and CSS.
-  - [Code](https://github.com/Subhransu38/expense-tracker)
-  - [Website](https://subhransu38.github.io/expense-tracker/)
-- Developed an 2D Game (2048) using HTML, CSS and JavaScript.
-  - [Code](https://github.com/Subhransu38/game-2048)
-  - [Website](https://subhransu38.github.io/game-2048/)
-
 ## 🛠️ Skills
 
 ### Languages
@@ -46,6 +31,23 @@
 ![git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+## 💻 Projects
+
+- Designed and developed a responsive YouTube Clone using HTML, CSS and JavaScript.
+  - [Code](https://github.com/Subhransu38/youtube-clone)
+  - [Website](https://subhransu38.github.io/youtube-clone/)
+- Built a personal Portfolio website using HTML, CSS and JavaScript.
+  - [Code](https://github.com/Subhransu38/portfolio)
+  - [Website](https://subhransu38.github.io/portfolio/)
+- Developed an expense tracker using React, HTML and CSS.
+  - [Code](https://github.com/Subhransu38/expense-tracker)
+  - [Website](https://subhransu38.github.io/expense-tracker/)
+- Developed an 2D Game (2048) using HTML, CSS and JavaScript.
+  - [Code](https://github.com/Subhransu38/game-2048)
+  - [Website](https://subhransu38.github.io/game-2048/)
+
+
 
 ## 🔗 Links
 
