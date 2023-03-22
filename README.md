@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Subhransu Sekhar Rath, a **Front End Web Developer**. I Have Pursued my Bachelor in **Computer Science & Engineering**, graduated in mid-2020.
+🎓 I'm **Subhransu Sekhar Rath**, and I graduated from the Centurion University of Technology and Management in 2020 with a degree in **Computer Science and Engineering**. My interests are in **Front End Engineering**, and I love to create beautiful and performant products with delightful user experiences.
 
 🔪 Outside the world of tech too, I enjoy experimenting with various flavors and ingredients to create delicious and unique dishes. I also like to explore new recipes and techniques through cookbooks and online resources.
 
@@ -34,13 +34,13 @@
 
 ## 💻 Projects
 
-- Designed and developed a responsive YouTube Clone using HTML, CSS and JavaScript.
+- Implemented a clone of the YouTube landing page using HTML, CSS, and JavaScript. The project accurately mimics the layout and design of the original with 90% fidelity.
   - [Code](https://github.com/Subhransu38/youtube-clone)
   - [Website](https://subhransu38.github.io/youtube-clone/)
-- Built a personal Portfolio website using HTML, CSS and JavaScript.
+- Designed and built a responsive personal Portfolio website using HTML, CSS and JavaScript.
   - [Code](https://github.com/Subhransu38/portfolio)
   - [Website](https://subhransu38.github.io/portfolio/)
-- Developed an expense tracker using React, HTML and CSS.
+- Created the frontend component of an expense tracker utilizing React, HTML, and CSS.
   - [Code](https://github.com/Subhransu38/expense-tracker)
   - [Website](https://subhransu38.github.io/expense-tracker/)
 - Developed an 2D Game (2048) using HTML, CSS and JavaScript.
