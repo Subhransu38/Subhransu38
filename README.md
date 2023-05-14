@@ -40,9 +40,9 @@
 - Designed and built a responsive personal Portfolio website using HTML, CSS and JavaScript.
   - [Code](https://github.com/Subhransu38/portfolio)
   - [Website](https://subhransu38.github.io/portfolio/)
-- Created the frontend component of an expense tracker utilizing React, HTML, and CSS.
-  - [Code](https://github.com/Subhransu38/expense-tracker)
-  - [Website](https://subhransu38.github.io/expense-tracker/)
+- Developed BudgetBuddy, an intuitive expense tracker React website that helps users manage finances efficiently.
+  - [Code](https://github.com/Subhransu38/BudgetBuddy)
+  - [Website](https://subhransu38.github.io/BudgetBuddy/)
 - Developed an 2D Game (2048) using HTML, CSS and JavaScript.
   - [Code](https://github.com/Subhransu38/game-2048)
   - [Website](https://subhransu38.github.io/game-2048/)
